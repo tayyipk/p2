@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "term"]
     style = "github" # Code highlighting
 
 [build]
-    noJSConfig = true
-
-[build]
-  noPagefind = true  # Disables Pagefind completely
+  noJSConfig = true
+  noPagefind = true
+  writeStats = false
+  useResourceCacheWhen = "fallback"
