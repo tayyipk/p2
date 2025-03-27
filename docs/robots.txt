@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tayyipk.github.io/p2/sitemap.xml
