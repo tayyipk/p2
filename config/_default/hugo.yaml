@@ -12,7 +12,7 @@ baseURL: 'https://tayyipk.github.io/p2/'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: de
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
