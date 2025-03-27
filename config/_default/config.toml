@@ -10,3 +10,6 @@ disableKinds = ["taxonomy", "term"]
 
 [build]
     noJSConfig = true
+
+[build]
+  noPagefind = true  # Disables Pagefind completely
