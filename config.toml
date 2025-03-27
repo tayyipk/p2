@@ -1,4 +1,0 @@
-baseURL = "https://tayyipk.github.io/p2/"
-title = "My Site"
-theme = "academic"
-publishDir = "docs"

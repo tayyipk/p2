@@ -1,0 +1,8 @@
+baseURL = "https://tayyipk.github.io/p2/"
+title = "My Site"
+theme = "academic"
+publishDir = "docs"
+
+[markup]
+  [markup.highlight]
+    style = "github" # Code highlighting
